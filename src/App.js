@@ -145,16 +145,16 @@ function App() {
                         </div>
                         <div class="time">
                           <div class="item">
-                            <div id="day">05</div>
+                            <div id="day"></div>
                           </div>
-                          <div class="item">
-                            <div id="hour">12</div>
+                          <div class="item ml-10">
+                            <div id="hour"></div>
                           </div>
-                          <div class="item">
-                            <div id="minute">30</div>
+                          <div class="item ml-10">
+                            <div id="minute"></div>
                           </div>
-                          <div class="item">
-                            <div id="seconds">12</div>
+                          <div class="item ml-10">
+                            <div id="seconds"></div>
                           </div>
                         </div>
 
@@ -186,17 +186,17 @@ function App() {
                           <img src={logo} alt="" class=" w-full" />
                         </div>
                         <div class="time">
-                          <div class="item">
-                            <div id="day1">05</div>
+                          <div class="item ml-10">
+                            <div id="day1"></div>
                           </div>
-                          <div class="item">
-                            <div id="hour1">12</div>
+                          <div class="item ml-10">
+                            <div id="hour1"></div>
                           </div>
-                          <div class="item">
-                            <div id="minute1">30</div>
+                          <div class="item ml-10">
+                            <div id="minute1"></div>
                           </div>
-                          <div class="item">
-                            <div id="seconds1">12</div>
+                          <div class="item ml-10">
+                            <div id="seconds1"></div>
                           </div>
                         </div>
 
